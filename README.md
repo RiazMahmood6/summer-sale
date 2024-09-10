@@ -1,1 +1,1 @@
-code link: https://github.com/Programming-Hero-Web-Course4/b8a5-summer-sale-RiazMahmood6
+live link: https://64e38eaec7775e009b842b86--astounding-bienenstitch-3179ff.netlify.app/
